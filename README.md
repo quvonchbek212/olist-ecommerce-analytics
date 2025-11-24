@@ -12,14 +12,14 @@ The goal is to extract business insights related to profitability, customer beha
 
 ##  Business Questions Solved
 
-### 1) Most profitable products  
-### 2) Most profitable categories  
-### 3) Customer Lifetime Value (Top customers)  
-### 4) Most profitable sellers  
-### 5) Revenue by region  
-### 6) Delivery delays (logistics issue detection)  
-### 7) Review score impact on revenue  
-### 8) Churn analysis (inactive customers)
+ 1) Most profitable products  
+ 2) Most profitable categories  
+ 3) Customer Lifetime Value (Top customers)  
+ 4) Most profitable sellers  
+ 5) Revenue by region  
+ 6) Delivery delays (logistics issue detection)  
+ 7) Review score impact on revenue  
+ 8) Churn analysis (inactive customers)
   
 
 
